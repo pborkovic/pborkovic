@@ -2,7 +2,7 @@
 # Personal
 **Name:** Philipp Borkovic <br>
 **Age:** 16 <br>
-**School:**HTBLuVA Villach - IT Medientechnik
+**School:** HTBLuVA Villach - IT Medientechnik
 
 # Personal
 Aspiring to be a Full-Stack Developer.

@@ -4,7 +4,7 @@
 **Age:** 16 <br>
 **School:** HTBLuVA Villach - IT Medientechnik
 
-# Personal
+# Motivation
 Aspiring to be a Full-Stack Developer.
 
 
